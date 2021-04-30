@@ -1,0 +1,19 @@
+}
+#app-mount .titleBar-AC4pGV .wordmark-2iDDfm::after {
+    content: "MIDNIGHT MARS";
+    position: absolute;
+    font-family: "Fredoka One";
+    background: linear-gradient(270deg,
+#C779D0,
+#FEAC5E);
+    animation: Gradient 4s ease infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-size: 200% 200%;
+    font-size: 13px;
+    font-weight: 600;
+    top: 11px;
+    left: 29px;
+    width: 135px;
+    }
